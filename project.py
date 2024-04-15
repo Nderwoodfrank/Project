@@ -7,11 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1YGuyXZiFBl9rxJ9bvnAy-7W87FAWWtBz
 """
 
-# Commented out IPython magic to ensure Python compatibility.
-!git clone https://github.com/TimDettmers/sparse_learning.git
-# %cd sparse_learning
-!pip install -r requirements.txt
-!python setup.py install
+
 
 import torch
 import numpy as np
